@@ -6,7 +6,7 @@ Install operator AMQ Broker for RHEL8 from OperatorHUB.
 
 ## Install AMQ Broker
 ```bash
-oc new-project test-upgrare-amqbroker
+oc new-project test-upgrade-amqbroker
 ```
 
 ```bash
